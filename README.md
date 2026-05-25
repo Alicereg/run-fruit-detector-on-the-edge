@@ -1,6 +1,8 @@
 # Custom Vision Dockerfile
 Exported from customvision.ai.
 
+pip install -r requirements.txt
+
 ## Build
 
 ```bash
