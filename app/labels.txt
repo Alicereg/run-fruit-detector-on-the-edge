@@ -1,0 +1,6 @@
+ripebananas
+ripeoranges
+rottenbananas
+rottenoranges
+unripebananas
+unripeoranges
