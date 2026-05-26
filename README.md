@@ -53,7 +53,7 @@ http://127.0.0.1/image
 Open another terminal:
 
 ```bash
-python camera_demo.py
+python demo.py
 ```
 
 ---
